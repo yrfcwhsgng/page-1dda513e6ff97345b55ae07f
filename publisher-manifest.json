@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "5f129a67a2708cc54b4b93ad",
+  "owner": "yrfcwhsgng",
+  "repo": "page-1dda513e6ff97345b55ae07f",
+  "title": "免流(EMO)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1dda513e6ff97345b55ae07f",
+      "a": "免流(EMO)",
+      "b": "",
+      "entity": "免流(EMO)",
+      "brand": "免流(EMO)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c67cafd8dc667d7a9dd2cd21f3177ee20d6595d0fa42ca156279e508518bd746",
+      "content": {
+        "keyword1": "免流(EMO)",
+        "keyword2": "",
+        "primary_entity": "免流(EMO)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "免流(EMO)把额度、席位和价目分栏写清。短句。不堆空话。先看方案，再决定要不要往下走。",
+          "AI_DESCRIPTION": "免流(EMO)把额度、席位和价目分栏写清。短句。不堆空话。先看方案，再决定要不要往下走。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml{}\nbody{background:#E8DCCB;color:#2C1810;font-family:Palatino,\"Palatino Linotype\",\"Iowan Old Style\",\"Songti SC\",\"STSong\",\"Noto Serif SC\",serif;line-height:1.55;font-size:18px}\na{color:#1F7A68;text-decoration:none}\na:hover{color:#0F4F43;text-decoration:underline}\nmain{max-width:1180px;margin:0 auto;padding:0 20px 72px}\n.hero{min-height:100vh;padding:28px 0 48px;display:grid;grid-template-columns:1.35fr 0.95fr 0.85fr;grid-template-rows:auto auto 1fr auto;gap:18px 28px;align-items:start}\n.kicker{grid-column:1/3;display:flex;justify-content:space-between;align-items:baseline;border-bottom:2px solid #2C1810;padding-bottom:10px;font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:#6B4E3D}\n.mast{grid-column:1/3}\n.mast h1{font-size:clamp(42px,7.2vw,92px);line-height:.92;letter-spacing:-.03em;font-weight:700;color:#2C1810}\n.mast .deck{margin-top:14px;max-width:34em;font-size:19px}\n.quote{grid-column:3;grid-row:2/4;border-left:6px solid #6FCBB3;padding:8px 0 0 18px;align-self:stretch}\n.quote p{font-size:clamp(22px,2.4vw,30px);line-height:1.35;font-style:italic}\n.quote cite{display:block;margin-top:16px;font-size:13px;font-style:normal;letter-spacing:.12em;color:#6B4E3D}\n.col{padding-top:8px;border-top:1px solid #C9B8A4}\n.col h2{font-size:14px;letter-spacing:.16em;margin-bottom:10px;color:#1F7A68}\n.col p{margin-bottom:10px;font-size:16px}\n.hero-nav{grid-column:3;grid-row:4;background:#2C1810;color:#E8DCCB;border-radius:28px;padding:22px 22px 18px;box-shadow:0 18px 40px rgba(44,24,16,.22)}\n.hero-nav .label{font-size:12px;letter-spacing:.2em;color:#6FCBB3;margin-bottom:12px}\n.hero-nav ol{list-style:none;counter-reset:n}\n.hero-nav li{counter-increment:n;border-top:1px solid rgba(232,220,203,.18);padding:8px 0}\n.hero-nav li a{color:#F4EDE3;display:flex;justify-content:space-between;align-items:baseline;text-decoration:none;font-size:16px}\n.hero-nav li a::before{content:counter(n, decimal-leading-zero);font-size:12px;color:#6FCBB3;letter-spacing:.08em;margin-right:10px}\n.hero-nav li a:hover{color:#6FCBB3;text-decoration:none}\n.band{margin-top:64px}\n.band h2{font-size:clamp(28px,4vw,42px);line-height:1.15;margin-bottom:8px}\n.lead{color:#6B4E3D;margin-bottom:22px;max-width:36em}\n.steps{display:grid;grid-template-columns:1fr 1fr;gap:18px}\n.card{background:#F7F0E6;border-radius:28px;box-shadow:0 16px 44px rgba(44,24,16,.12);padding:24px 26px 22px}\n.card h3{font-size:22px;margin-bottom:8px}\n.card p,.card li{font-size:16px}\n.card ol{margin-left:1.2em}\n.card li{margin:6px 0}\n.plans{max-width:720px;display:flex;flex-direction:column;gap:22px}\n.plan{background:#F7F0E6;border-radius:32px;box-shadow:0 18px 48px rgba(44,24,16,.13);padding:28px 28px 24px;position:relative}\n.plan.featured{background:#E7F7F1;box-shadow:0 20px 52px rgba(31,122,104,.18)}\n.badge{display:inline-block;background:#2C1810;color:#6FCBB3;font-size:12px;letter-spacing:.14em;padding:5px 10px;border-radius:999px;margin-bottom:10px}\n.plan h3{font-size:30px;line-height:1.1}\n.price{margin:10px 0 6px;font-size:28px;color:#1F7A68}\n.price small{font-size:15px;color:#6B4E3D;margin-left:8px}\n.annual{font-size:15px;color:#6B4E3D;margin-bottom:14px}\n.plan ul{list-style:none;border-top:1px solid #D7C7B4;padding-top:12px}\n.featured ul{border-top-color:#B7E0D4}\n.plan li{padding:7px 0;font-size:16px;border-bottom:1px dotted #D7C7B4}\n.plan li:last-child{border-bottom:none}\n.clients .card p{margin-bottom:10px}\n.note{font-size:15px;color:#6B4E3D}\n.faq-wrap{max-width:760px;display:flex;flex-direction:column;gap:12px}\ndetails{background:#F7F0E6;border-radius:28px;box-shadow:0 14px 36px rgba(44,24,16,.1);padding:4px 8px}\nsummary{cursor:pointer;list-style:none;padding:16px 18px;font-size:18px;font-weight:700}\nsummary::-webkit-details-marker{display:none}\nsummary::after{content:\"+\";float:right;color:#1F7A68;font-weight:400}\ndetails[open] summary::after{content:\"–\"}\ndetails article{padding:0 18px 18px;font-size:16px;color:#3A281C}\ndetails article p{margin-top:6px}\n.colophon{margin-top:72px;border-top:2px solid #2C1810;padding-top:16px;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;font-size:13px;letter-spacing:.08em;color:#6B4E3D}\n.jump{margin-top:18px;font-size:14px}\n.jump a{margin-right:14px}\n@media (max-width:860px){\n.hero{grid-template-columns:1fr;grid-template-rows:auto;min-height:auto}\n.kicker,.mast,.quote,.col,.hero-nav{grid-column:1;grid-row:auto}\n.quote{border-left-width:5px;margin:8px 0}\n.steps{grid-template-columns:1fr}\n.mast h1{font-size:48px}\n}\n</style><main>\n<section class=\"hero\" id=\"top\">\n<p class=\"kicker\"><span>用量特辑 · 纸面价目</span><span>免流(EMO) 静态说明页</span></p>\n<div class=\"mast\">\n<h1>免流(EMO)</h1>\n<p class=\"deck\">额度写在格子里。席位写在格子里。价钱也写在格子里。其余的话，少说。</p>\n</div>\n<blockquote class=\"quote\">\n<p>少许诺。把能核对的数字放到能看见的位置。</p>\n—— 开篇引言\n</blockquote>\n<div class=\"col\" id=\"intro\">\n<h2>左栏</h2>\n<p>免流(EMO)是一个方案名。本页只做目录和说明。</p>\n<p>不写没核实的身份。不写没提供的测速。不写没给出的线路清单。</p>\n<p>你要的是对照：每月给多少、能开几席、年付怎么算。</p>\n</div>\n<div class=\"col\">\n<h2>中栏</h2>\n<p>先读开篇。再读用法。然后看价目卡。最后才是客户端和问答。</p>\n<p>卡片很大。一次只看一档。不要并排扫。</p>\n<p>没有下载包。没有外部跳转商店。链接缺来源就停在页内。</p>\n</div>\n<nav class=\"hero-nav\" aria-label=\"本页目录\">\n<p class=\"label\">本页目录</p>\n<ol>\n<li><a href=\"#intro\">开篇<span>栏</span></a></li>\n<li><a href=\"#guide\">用法<span>步</span></a></li>\n<li><a href=\"#plans\">价目<span>卡</span></a></li>\n<li><a href=\"#clients\">客户端<span>注</span></a></li>\n<li><a href=\"#faq\">问答<span>折</span></a></li>\n</ol>\n</nav>\n</section>\n<section class=\"band\" id=\"guide\">\n<h2>用法</h2>\n<p class=\"lead\">四步。按顺序做。做完再改档。</p>\n<div class=\"steps\">\n<article class=\"card\">\n<h3>1–2</h3>\n<ol>\n<li>选定一档。记下月额度与席位上限。</li>\n<li>年付只是把十二个月写在同一行。先确认你要锁多久。</li>\n</ol>\n</article>\n<article class=\"card\">\n<h3>3–4</h3>\n<ol>\n<li>用你本机已有的客户端填入自己的参数。本页不代发安装包。</li>\n<li>进去先看剩余额度。用尽即停。不预支下月。</li>\n</ol>\n</article>\n</div>\n<p class=\"jump\"><a href=\"#plans\">去价目</a><a href=\"#faq\">去问答</a></p>\n</section>\n<section class=\"band\" id=\"plans\">\n<h2>价目</h2>\n<p class=\"lead\">单列大卡。从上往下读。主推档用薄荷底标出来。</p>\n<div class=\"plans\">\n<article class=\"plan\">\n<h3>薄册</h3>\n<p class=\"price\">¥15<span>/月</span><small>个人轻用量</small></p>\n<p class=\"annual\">按年付：¥150/年</p>\n<ul>\n<li>月额度按 100GB 计</li>\n<li>同时在线 3 席</li>\n<li>适合把日常用量写进一本薄册的人</li>\n<li>不含未核实的线路名目</li>\n</ul>\n</article>\n<article class=\"plan featured\">\n<p class=\"badge\">本期主推</p>\n<h3>正刊</h3>\n<p class=\"price\">¥35<span>/月</span><small>常用对页</small></p>\n<p class=\"annual\">按年付：¥350/年</p>\n<ul>\n<li>月额度按 300GB 计</li>\n<li>同时在线 5 席</li>\n<li>给每周都要翻开的人</li>\n<li>工单按排队处理，不写未证实的值守时长</li>\n</ul>\n</article>\n<article class=\"plan\">\n<h3>合订</h3>\n<p class=\"price\">¥85<span>/月</span><small>共事共用</small></p>\n<p class=\"annual\">按年付：¥850/年</p>\n<ul>\n<li>月额度按 1000GB 计</li>\n<li>同时在线 20 席</li>\n<li>给需要把多席写进同一本的小组</li>\n<li>路由怎么划，以你自己的配置为准</li>\n</ul>\n</article>\n</div>\n</section>\n<section class=\"band clients\" id=\"clients\">\n<h2>客户端</h2>\n<p class=\"lead\">无可靠下载地址。不伪造商店链接。不贴安装包。</p>\n<article class=\"card\">\n<h3>怎么接</h3>\n<p>桌面和移动端都用你已经安装好的通用工具。参数来自你自己的账户，不来自本页。</p>\n<p>本页不列系统名单。不保证某款软件能用。能打开、能填、能核对额度，就算接上了。</p>\n<p class=\"note\">需要跳转时请自行前往你信任的来源。此处链接留空，指向页内即可：<a href=\"#\">#</a></p>\n</article>\n</section>\n<section class=\"band\" id=\"faq\">\n<h2>常见问题</h2>\n<p class=\"lead\">点开一条。读完再开下一条。</p>\n<div class=\"faq-wrap\">\n<details>\n<summary>免流(EMO)在本页指什么？</summary>\n<article><p>一个写在刊头的方案名。本页只展示价目、席位和用法。不声称公司主体，也不补充未给出的服务范围。</p></article>\n</details>\n<details>\n<summary>为什么看不到测速和线路表？</summary>\n<article><p>没有提供可核对的材料。就不写。数字只出现在额度、席位和价钱三处。</p></article>\n</details>\n<details>\n<summary>年付和月付差在哪？</summary>\n<article><p>年付把十二个月写在一行。薄册 ¥150/年，正刊 ¥350/年，合订 ¥850/年。锁定期由你自己决定。</p></article>\n</details>\n<details>\n<summary>席位满了怎么办？</summary>\n<article><p>停掉一台，再开一台。或者换到席位更多的档。不要假设能超席。</p></article>\n</details>\n<details>\n<summary>额度用完当天还能用吗？</summary>\n<article><p>不能。用尽即停。下个计费周期再开。本页不写借贷额度。</p></article>\n</details>\n<details>\n<summary>客户端从哪里下？</summary>\n<article><p>本页没有可确认的下载地址。请用你本机已有的工具。不要在没有来源的按钮上填真实账户。</p></article>\n</details>\n</div>\n</section>\n<div class=\"colophon\">\n<p>免流(EMO) · 静态页 · 仅供阅读</p>\n<p><a href=\"#top\">回刊头</a></p>\n</div>\n</main>",
+          "hash": "13d229656945ec8551b28de9f80ba028a9fb9d04a9a753b1a241eff763c974b8",
+          "seo": {
+            "title": "免流(EMO)｜用量摊开写，方案逐条看",
+            "keywords": "免流(EMO),EMO,用量方案,席位,价目,客户端说明",
+            "description": "免流(EMO)把额度、席位和价目分栏写清。短句。不堆空话。先看方案，再决定要不要往下走。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "3818",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "9 深棕配薄荷",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "uuaefq.cn",
+    "host": "p-0d9dc983d3.uuaefq.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "669d10ccb3e584fb9867b1c9c43ab27de3d5a2ac1920d805565229dba6563128",
+    "sitemap.xml": "afeae6ad4aa1bd901e52ed449b3cf4d287c4e1efbfabcc7118de3aafd99bd963",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ec146e8f9a2e8f634ca4475c19d2ca5259622d77e3a00cddce5ade5478895a7b",
+    "robots.txt": "f798f879b8f44b238f05312e55bf7e2d92da11bf4fe4d5be7c3e42544ae1a678",
+    "257d6a30be9c60c388f3cd8c5270f119.txt": "55b9e0e33c3cdd6536e173040b92717aa5fb688e38b90fab67bc89c1211e1c33"
+  },
+  "revision": "c3e2837f19096642a2f79ee02b2094f73a21a39ef23ddfd3eb79a5963d7c2ad3"
+}
